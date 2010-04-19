@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: #+begin_dot...#+end_dot
+# --
+#+begin_dot $1.png -Tpng
+digraph data_relationships {
+  "$2" [shape=Mrecord, label="{$2|$3}"]
+  "$4" [shape=Mrecord, label="{$4|$5}"]
+  "$0"
+
+  "$2" -> "$4"
+}
+#+end_dot
