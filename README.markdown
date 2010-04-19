@@ -3,7 +3,6 @@ My Yasnippets for the following modes:
 
  * css-mode
  * emacs-lisp-mode
- * haml-mode
  * html-mode
  * java-mode
  * sh-mode
