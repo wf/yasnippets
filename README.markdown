@@ -6,9 +6,5 @@ My Yasnippets for the following modes:
  * haml-mode
  * html-mode
  * java-mode
- * javascript-mode
- * latex-mode
- * ruby-mode
- * sass-mode
  * sh-mode
  * sql-interactive-mode
